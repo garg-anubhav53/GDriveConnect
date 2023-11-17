@@ -1,0 +1,1 @@
+This is a simple attempt at creating a client to interface with the Google Account service
